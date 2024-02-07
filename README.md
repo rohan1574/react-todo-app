@@ -6,3 +6,5 @@
 ##### i am chek this code mu sldkfj asdfjsd fsdjlfk 
 - amar sonar sdjflj
 
+- all code switch
+
